@@ -1,0 +1,10 @@
+replicas: 1
+
+ports:
+    public: 8080
+
+db:
+    username: root
+    password: password
+
+stage: dev
